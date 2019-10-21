@@ -17,4 +17,4 @@
 |黄水晶|3||
 |真银锭|2||
 |大地精华|7||
-|火焰精华|29|<table><tr><td bgcolor=orange>背景色是：orange</td></tr></table>|
+|火焰精华|29|`<table><tr><td bgcolor=orange>背景色是：orange</td></tr></table>`
