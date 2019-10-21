@@ -1,5 +1,5 @@
 ## 材料记录
-<font color=red>内容</font>
+
 ## 金币数：702
 
 | 材料        | 数量   |  备注  |
@@ -18,3 +18,14 @@
 |真银锭|2||
 |大地精华|7||
 |火焰精华|29|<font color=red>内容</font>|
+
+
+```json 
+    // code for coloring 
+``` 
+```html 
+    // code for coloring 
+``` 
+```js 
+    // code for coloring 
+``` 
