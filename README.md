@@ -7,4 +7,4 @@
 [点我查询](https://www.mdeditor.com/)
 
 ## 公会MC1-10于10.20开荒成功
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+![Pandao editor.md](https://github.com/Tinker250/victory_warehourse/blob/master/MC/RAID_MC.png "合影留念")
