@@ -4,7 +4,7 @@
 ## 公会材料查询
 [点我查询](https://github.com/Tinker250/victory_warehourse/blob/master/index.md)
 ## 公会材料使用记录
-[点我查询](https://www.mdeditor.com/)
+[点我查询](https://github.com/Tinker250/victory_warehourse/blob/master/record.md)
 
 ## 公会MC1-10于10.20开荒成功
 ![开荒截图](https://github.com/Tinker250/victory_warehourse/blob/master/MC/RAID_MC.png "合影留念")
