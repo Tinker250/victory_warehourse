@@ -4,8 +4,9 @@
 ## 公会材料查询
 [点我查询](https://github.com/Tinker250/victory_warehourse/blob/master/index.md)
 ## 公会材料使用记录
-[2019年 点我查询](https://github.com/Tinker250/victory_warehourse/blob/master/record.md)
-[2020年 点我查询](https://github.com/Tinker250/victory_warehourse/blob/master/record_2020.md)
+[2019年点我查询](https://github.com/Tinker250/victory_warehourse/blob/master/record.md)
+
+[2020年点我查询](https://github.com/Tinker250/victory_warehourse/blob/master/record_2020.md)
 
 ## 公会MC1-10于10.20开荒成功
 ![开荒截图](https://github.com/Tinker250/victory_warehourse/blob/master/MC/RAID_MC.png "合影留念")
