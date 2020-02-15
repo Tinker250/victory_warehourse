@@ -14,3 +14,6 @@
 
 ## 开荒成员列表
 ![开荒截图](https://github.com/Tinker250/victory_warehourse/blob/master/MC/ID_LIST.png "合影留念")
+
+## 公会BWL于2020.2.16开荒成功
+![开荒截图](https://github.com/Tinker250/victory_warehourse/blob/master/MC/RAID_BWL.png "BWL合影")
