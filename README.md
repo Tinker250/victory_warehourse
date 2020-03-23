@@ -1,7 +1,7 @@
 # victory_warehourse
 # 魔兽怀旧服 五区 卓越 Victory公会材料记录
 ## WCL链接
-[WCL](https://cn.classic.warcraftlogs.com/guild/id/498927)
+[WCL](https://cn.classic.warcraftlogs.com/guild/cn/%E6%B3%95%E7%90%B3%E5%A8%9C/victory)
 ## 公会材料查询
 [点我查询](https://github.com/Tinker250/victory_warehourse/blob/master/index.md)
 ## 公会材料使用记录
