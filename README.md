@@ -1,7 +1,7 @@
 # victory_warehourse
-# 魔兽怀旧服 原五区 卓越 现一区 法琳娜 Victory公会材料记录
+# 魔兽怀旧服 原五区 卓越 Victory公会材料记录
 ## WCL链接
-[WCL](https://cn.classic.warcraftlogs.com/guild/cn/%E6%B3%95%E7%90%B3%E5%A8%9C/victory)
+[WCL](https://cn.classic.warcraftlogs.com/guild/id/534125)
 ## 公会材料查询
 [点我查询](https://github.com/Tinker250/victory_warehourse/blob/master/index.md)
 ## 公会材料使用记录
@@ -20,3 +20,9 @@
 
 ## BWL开荒成员列表
 ![开荒截图](https://github.com/Tinker250/victory_warehourse/blob/master/MC/BWL_LIST.png "BWL人员")
+
+## 公会TAQ于2020.8.8开荒成功
+![开荒截图](https://github.com/Tinker250/victory_warehourse/blob/master/MC/TAQ.png "TAQ合影")
+
+## TAQ开荒成员列表
+![开荒截图](https://github.com/Tinker250/victory_warehourse/blob/master/MC/TAQ_id_list.png "TAQ人员")
