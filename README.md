@@ -25,4 +25,4 @@
 ![开荒截图](https://github.com/Tinker250/victory_warehourse/blob/master/MC/TAQ.png "TAQ合影")
 
 ## TAQ开荒成员列表
-![开荒截图](https://github.com/Tinker250/victory_warehourse/blob/master/MC/TAQ_id_list.png "TAQ人员")
+![开荒截图](https://github.com/Tinker250/victory_warehourse/blob/master/MC/TAQ_id_list.PNG "TAQ人员")
