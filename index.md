@@ -1,3 +1,6 @@
 ## WLK 10人配置
 
-aiss,sfd,
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
